@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, mundo! rs. Sou a Natália, mas pode me chamar de Nats
 
-<!--
-**nsfoliveira/nsfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💪🏾 Mulher preta em transição de carreira! ♥
+- 🔭 Atualmente trabalho na área da saúde atuando como líder do setor de Controles.
+- 🌱 Bacharela em Administração, graduanda em Ciência de Dados e Big Data e Data Analytic em formação
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <div>
+  <a href="https://linktr.ee/nsfoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsfoliveira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsfoliveira&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+  
+  ##
+  <div>
+      ![Snake animation](https://github.com/nsfoliveira/nsfoliveira/blob/output/github-contribution-grid-snake.svg)
+  </div>
+
 -->
