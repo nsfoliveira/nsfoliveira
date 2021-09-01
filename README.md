@@ -1,8 +1,8 @@
 ### Olá, mundo! rs. Sou a Natália, mas pode me chamar de Nats
 
-- 💪🏾 Mulher preta em transição de carreira! ♥
+- 💪🏾 Mulher preta em transição de carreira! 
 - 🔭 Atualmente trabalho na área da saúde atuando como líder do setor de Controles.
-- 🌱 Bacharela em Administração, graduanda em Ciência de Dados e Big Data e Data Analytic em formação
+- 🌱 Bacharela em Administração, graduanda em Ciência de Dados (UNISANTOS) e Data Analytics em formação (IGTI)
 - 😄 Pronomes: ela/dela
 
 ##
