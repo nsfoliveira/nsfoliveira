@@ -2,7 +2,7 @@
 
 - 💪🏾 Mulher preta em transição de carreira! 
 - 🔭 Atualmente trabalho na área da saúde atuando como líder do setor de Controles.
-- 🌱 Bacharela em Administração, graduanda em Ciência de Dados (UNISANTOS) e Data Analytics em formação (IGTI)
+- 🌱 Bacharela em Administração, graduanda em Ciência de Dados (UNISANTOS)
 - 😄 Pronomes: ela/dela
 
 ##
