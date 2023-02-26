@@ -1,8 +1,8 @@
 ### Olá, mundo! rs. Sou a Natália, mas pode me chamar de Nats
 
-- 💪🏾 Mulher preta em transição de carreira! 
-- 🔭 Vem coisa boa logo, logo ♥
-- 🌱 Bacharela em Administração e graduanda em Big Data e Inteligência Analitica 1/5 (UNISANTOS)
+- 💪🏾 Mulher PRETA
+- 🔭 Estagiária de Dados & Analytics na REDE #ituber
+- 🌱 Bacharela em Administração e graduanda em Ciência de Dados
 - 😄 Pronomes: ela/dela
 
 ##
