@@ -1,7 +1,7 @@
 ### Olá, mundo! rs. Sou a Natália, mas pode me chamar de Nats
 
 - 💪🏾 Mulher PRETA
-- 🔭 Analista de Dados Itaú e futura Engenheira de Analytics 
+- 🔭 Analista de Dados no Itaú e futura Engenheira de Analytics 
 - 🌱 Bacharela em Administração e graduanda em Ciência de Dados
 - 😄 Pronomes: ela/dela
 
