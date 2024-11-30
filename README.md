@@ -1,4 +1,4 @@
-### Olá, mundo! rs. Sou a Natália, mas pode me chamar de Nats
+### Olá, mundo! rs. Prazer, Natália.
 
 - 💪🏾 Mulher PRETA
 - 🔭 Analista de Dados no Itaú e futura Engenheira de Analytics 
